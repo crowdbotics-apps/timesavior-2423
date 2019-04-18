@@ -1,0 +1,3 @@
+rootProject.name = 'timesavior_2423'
+
+include ':app'
